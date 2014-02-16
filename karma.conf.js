@@ -37,6 +37,34 @@ module.exports = function(config) {
     // enable / disable watching file and executing tests whenever any file changes
     autoWatch: false,
 
+    sauceLabs: {
+      username: 'evergit',
+      accessKey: '069e567e-ed81-4e09-a1f1-23471debfbfd',
+      startConnect: true,
+      testName: 'evergit - unit tests'
+    },
+
+    // define SL browsers
+    customLaunchers: {
+      sl_chrome_linux: {
+        base: 'SauceLabs',
+        browserName: 'chrome',
+        platform: 'linux'
+      },
+      sl_ie10_win7: {
+        base: 'SauceLabs',
+        browserName: 'internet explorer',
+        version: '10',
+        platform: 'Windows 7'
+      },
+      sl_ie9_win7: {
+        base: 'SauceLabs',
+        browserName: 'internet explorer',
+        version: '9',
+        platform: 'Windows 7'
+      }
+    },
+
 
     // Start these browsers, currently available:
     // - Chrome
@@ -46,7 +74,7 @@ module.exports = function(config) {
     // - Safari (only Mac)
     // - PhantomJS
     // - IE (only Windows)
-    browsers: ['PhantomJS'],
+    browsers: ['PhantomJS', 'sl_chrome_linux', 'sl_ie10_win7', 'sl_ie9_win7'],
 
 
     // Continuous Integration mode
