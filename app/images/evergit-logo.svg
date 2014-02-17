@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 200 200" enable-background="new 0 0 200 200" xml:space="preserve">
+<circle fill="#000000" cx="38" cy="49.9" r="17.8"/>
+<line fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" x1="100.9" y1="58.4" x2="181.5" y2="58.4"/>
+<line fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" x1="100.9" y1="78.4" x2="181.5" y2="78.4"/>
+<line fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" x1="100.9" y1="138.4" x2="181.5" y2="138.4"/>
+<circle fill="#000000" cx="38" cy="147.2" r="17.8"/>
+<circle fill="#000000" cx="101.8" cy="108.8" r="17.8"/>
+<line fill="none" stroke="#000000" stroke-width="16" stroke-miterlimit="10" x1="38" y1="49.9" x2="38" y2="147.2"/>
+<line fill="none" stroke="#000000" stroke-width="16" stroke-miterlimit="10" x1="38" y1="49.9" x2="101.8" y2="108.8"/>
+<line fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" x1="100.9" y1="158.4" x2="181.5" y2="158.4"/>
+<line fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" x1="130.9" y1="98.4" x2="181" y2="98.4"/>
+<line fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" x1="130.9" y1="118.4" x2="181" y2="118.4"/>
+<rect fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" width="200" height="200"/>
+<line fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" x1="100.9" y1="38.4" x2="181.5" y2="38.4"/>
+</svg>
